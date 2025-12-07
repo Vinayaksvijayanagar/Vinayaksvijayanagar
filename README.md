@@ -107,7 +107,6 @@
 ## 🔗 Connect With Me  
 <p align="center">
 <a href="https://www.linkedin.com/in/vinayak-vijayanagar-07937b36a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="vinayakvijayanagar6@gmail.com"><img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
