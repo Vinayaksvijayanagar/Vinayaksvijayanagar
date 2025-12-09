@@ -90,19 +90,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## 📈 GitHub Stats (Dark Mode)
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Vinayaksvijayanagar&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayaksvijayanagar&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vinayaksvijayanagar&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🔗 Connect With Me  
 <p align="center">
