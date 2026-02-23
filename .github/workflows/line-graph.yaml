@@ -13,36 +13,70 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install requests
+        run: pip install requests
+
       - name: Generate SVG
         run: |
-          mkdir -p assets
-          cat > assets/line-graph.svg <<'EOF'
-          <svg width="800" height="200" viewBox="0 0 800 200"
-            xmlns="http://www.w3.org/2000/svg">
+          python << 'EOF'
+          import requests, os
 
-            <polyline
-              points="20,150 120,80 220,130 320,60 420,110 520,70 620,120 720,50"
-              fill="none"
-              stroke="#58a6ff"
-              stroke-width="4"
-              stroke-linecap="round"
-              stroke-dasharray="1200"
-              stroke-dashoffset="1200">
-              <animate
-                attributeName="stroke-dashoffset"
-                from="1200"
-                to="0"
-                dur="2s"
-                repeatCount="indefinite" />
-            </polyline>
+          USER = "Vinayaksvijayanagar"
+          url = f"https://api.github.com/users/{USER}"
+          data = requests.get(url).json()
+
+          followers = data["followers"]
+          following = data["following"]
+          repos = data["public_repos"]
+
+          svg = f"""
+          <svg width="100%" height="260" viewBox="0 0 900 260"
+               xmlns="http://www.w3.org/2000/svg">
+
+          <rect width="100%" height="100%" rx="15" fill="#0d1117"/>
+
+          <text x="30" y="35" fill="#58a6ff" font-size="22">GitHub Activity</text>
+
+          <text x="30" y="80" fill="#c9d1d9" font-size="16">Repositories: {repos}</text>
+          <text x="30" y="110" fill="#c9d1d9" font-size="16">Followers: {followers}</text>
+          <text x="30" y="140" fill="#c9d1d9" font-size="16">Following: {following}</text>
+
+          <defs>
+            <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+              <stop offset="0%" stop-color="#00f2ff"/>
+              <stop offset="100%" stop-color="#7b61ff"/>
+            </linearGradient>
+          </defs>
+
+          <path d="M250 200 L350 120 L450 160 L550 90 L650 130 L750 80"
+                fill="none"
+                stroke="url(#grad)"
+                stroke-width="5"
+                stroke-dasharray="600"
+                stroke-dashoffset="600">
+
+            <animate attributeName="stroke-dashoffset"
+                     from="600" to="0"
+                     dur="2s"
+                     repeatCount="indefinite"/>
+          </path>
 
           </svg>
+          """
+
+          os.makedirs("assets", exist_ok=True)
+          open("assets/line-graph.svg","w").write(svg)
           EOF
 
-      - name: Commit and push
+      - name: Commit & Push
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           git add assets/line-graph.svg
-          git commit -m "update animated line graph" || exit 0
+          git commit -m "Update animated line graph" || echo "No changes"
           git push
