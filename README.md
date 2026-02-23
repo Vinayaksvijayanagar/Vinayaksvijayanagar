@@ -121,26 +121,15 @@ Connected speech pipeline to TensorFlow inference APIs for real-time predictions
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinayaksvijayanagar&theme=tokyonight" />
 </p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinayaksvijayanagar&theme=tokyonight" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinayaksvijayanagar&theme=tokyonight" height="170"/>
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Vinayaksvijayanagar&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-<br>
-
-<h2 align="center">Contribution Graph</h2>
-<hr>
-
-<p align="center">
-   <img src="https://raw.githubusercontent.com/Vinayaksvijayanagar/Vinayaksvijayanagar/main/assets/line-graph.svg?cache=false"  width="100%" /> width="100%" />
-</p>
+>
 
 
 
