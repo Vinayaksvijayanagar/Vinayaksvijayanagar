@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=0A66C2&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;GenAI+%7C+NLP+%7C+Computer+Vision;Building+Production-Ready+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;GenAI+%7C+NLP+%7C+Computer+Vision;Building+Production-Ready+AI+Systems" />
 </p>
 
 <h1 align="center"><b>Vinayak Vijayanagar</b></h1>
@@ -104,7 +104,7 @@ Connected speech pipeline to TensorFlow inference APIs for real-time predictions
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
