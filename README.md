@@ -119,16 +119,27 @@ Connected speech pipeline to TensorFlow inference APIs for real-time predictions
 <hr>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinayaksvijayanagar&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinayaksvijayanagar&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinayaksvijayanagar&theme=github_dark" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinayaksvijayanagar&theme=github_dark" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinayaksvijayanagar&theme=tokyonight" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinayaksvijayanagar&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vinayaksvijayanagar&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Vinayaksvijayanagar&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<br>
+
+<h2 align="center">Contribution Graph</h2>
+<hr>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vinayaksvijayanagar/Vinayaksvijayanagar/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
