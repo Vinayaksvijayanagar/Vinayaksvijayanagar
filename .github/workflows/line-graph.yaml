@@ -2,34 +2,42 @@ name: Generate Animated Line Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate SVG
+      - name: Generate Line Graph
         uses: lowlighter/metrics@latest
         with:
-          filename: assets/line-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          user: Vinayaksvijayanagar
+
+          template: classic
+          filename: assets/line-graph.svg
+
           base: activity
           plugin_activity: yes
           plugin_activity_limit: 30
           plugin_activity_days: 30
-          plugin_activity_visibility: all
-          plugin_activity_graph: yes
-          plugin_activity_graph_type: line
-          plugin_activity_graph_animate: yes
 
-      - name: Commit and push
+          plugin_lines: yes
+          plugin_lines_sections: repositories,history
+          plugin_lines_delay: 1
+
+      - name: Commit & Push
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add .
-          git commit -m "update animated line graph" || echo "no changes"
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets/line-graph.svg
+          git commit -m "Update animated line graph" || echo "No changes"
           git push
