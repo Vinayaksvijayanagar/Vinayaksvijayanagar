@@ -139,11 +139,7 @@ Connected speech pipeline to TensorFlow inference APIs for real-time predictions
 <hr>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2000&color=58A6FF&center=true&vCenter=true&width=400&lines=Live+GitHub+Activity" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinayaksvijayanagar&theme=tokyo-night&hide_border=true" />
+  <img src="https://Vinayaksvijayanagar.github.io/github-contribution-grid-snake-dark.svg" />
 </p>
 
 
