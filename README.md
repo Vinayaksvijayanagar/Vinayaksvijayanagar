@@ -114,12 +114,13 @@ Connected speech pipeline to TensorFlow inference APIs for real-time predictions
 
 ## GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=vinayaksvijayanagar&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayaksvijayanagar&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+## GitHub Activity
 
----
-
-<br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinayaksvijayanagar&theme=github_dark" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinayaksvijayanagar&theme=github_dark" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/languages?username=Vinayaksvijayanagar&theme=github_dark" height="150" />
+</p>
 
 ## Connect With Me
 
