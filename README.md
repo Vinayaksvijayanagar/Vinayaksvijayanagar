@@ -139,7 +139,7 @@ Connected speech pipeline to TensorFlow inference APIs for real-time predictions
 <hr>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vinayaksvijayanagar/Vinayaksvijayanagar/gh-pages/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinayaksvijayanagar&theme=react-dark&hide_border=true&bg_color=0D1117&line=00E5FF&point=FFFFFF&area=true" />
 </p>
 
 
