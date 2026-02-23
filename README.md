@@ -5,7 +5,7 @@
 <h1 align="center"><b>Vinayak Vijayanagar</b></h1>
 
 <p align="center">
-AI/ML Engineer focused on designing, building, and deploying real-world intelligent systems.
+AI/ML Engineer focused on designing, building, and deploying scalable intelligent systems.
 </p>
 
 <p align="center">
@@ -16,11 +16,12 @@ Deep Learning • GenAI • NLP • Computer Vision
 
 <br>
 
-## About Me
+<h2 align="center">About Me</h2>
+<hr>
 
-I am an AI/ML engineer with hands-on experience in developing end-to-end machine learning systems — from data preprocessing and model design to deployment and optimization.
+I am an AI/ML engineer with hands-on experience building end-to-end machine learning systems — from data preprocessing and model architecture to deployment and optimization.
 
-My work focuses on building reliable, scalable, and production-ready AI solutions rather than isolated experiments.
+My focus is on creating reliable, scalable, and production-ready AI solutions that solve real-world problems.
 
 - BE in Artificial Intelligence & Data Science (CGPA: 8.6)  
 - GenAI Intern at **Vidarka Technology**  
@@ -32,47 +33,48 @@ My work focuses on building reliable, scalable, and production-ready AI solution
 
 <br>
 
-## Featured Projects
+<h2 align="center">Featured Projects</h2>
+<hr>
 
-### Coffee Leaf Disease Detection (CNN – 92%)
+<h3>Coffee Leaf Disease Detection (CNN – 92%)</h3>
 
 High-accuracy CNN model built using TensorFlow to classify 19 coffee leaf diseases.  
-Developed a full-stack web application using Flask and React with multilingual and voice-based input.  
-Deployed on Render and Netlify for real-world accessibility.
+Developed a full-stack web platform using Flask and React with multilingual and voice-based input.  
+Deployed on Render and Netlify.
 
 ---
 
-### Rainfall Prediction (Ensemble ML)
+<h3>Rainfall Prediction (Ensemble ML)</h3>
 
 Engineered seasonal features and trained AdaBoost ensemble models.  
-Achieved improved accuracy compared to Decision Tree baselines.  
-Visualized insights using Matplotlib.
+Improved performance over Decision Tree baselines.  
+Visualized trends and insights using Matplotlib.
 
 ---
 
-### Blood Bank Management System
+<h3>Blood Bank Management System</h3>
 
 Designed and developed a full-stack system using PHP and MySQL.  
-Supports donor registration, inventory management, and real-time blood availability tracking.
+Supports donor registration, inventory tracking, and real-time blood availability.
 
 ---
 
-### Resume Intelligence Pipeline (NLP + ML)
+<h3>Resume Intelligence Pipeline (NLP + ML)</h3>
 
 Built a hybrid NLP pipeline using TF-IDF and Logistic Regression.  
 Classifies resume content into ML, NLP, CV, Backend, and Experience categories.  
-Applies confidence thresholding and rule-based validation to generate skill percentages and a final score.
+Applies confidence thresholding and rule-based validation to generate skill percentages and an overall score.
 
 ---
 
-### Image Processing & Compression Toolkit
+<h3>Image Processing & Compression Toolkit</h3>
 
 Implemented advanced image processing pipelines using OpenCV in C/C++.  
 Includes image transformations, noise reduction, compression, and filtering operations.
 
 ---
 
-### Voice-Enabled Disease Detection
+<h3>Voice-Enabled Disease Detection</h3>
 
 Integrated multilingual speech input with NLP preprocessing.  
 Connected speech pipeline to TensorFlow inference APIs for real-time predictions.
@@ -81,7 +83,8 @@ Connected speech pipeline to TensorFlow inference APIs for real-time predictions
 
 <br>
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
+<hr>
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -112,17 +115,28 @@ Connected speech pipeline to TensorFlow inference APIs for real-time predictions
 
 <br>
 
-## GitHub Activity
-
-## GitHub Activity
+<h2 align="center">GitHub Activity</h2>
+<hr>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinayaksvijayanagar&theme=github_dark" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinayaksvijayanagar&theme=github_dark" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinayaksvijayanagar&theme=github_dark" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinayaksvijayanagar&theme=github_dark" />
 </p>
 
-## Connect With Me
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinayaksvijayanagar&theme=github_dark" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinayaksvijayanagar&theme=github_dark" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vinayaksvijayanagar&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+<br>
+
+<h2 align="center">Connect With Me</h2>
+<hr>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vinayak-vijayanagar-07937b36a">
