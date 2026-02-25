@@ -11,7 +11,7 @@ AI/ML Engineer & Python Developer focused on designing, building, and deploying 
 </p>
 
 <p align="center">
-Deep Learning • GenAI • NLP • Computer Vision • Data Analytics • Backend Development
+Deep Learning • GenAI • NLP • Computer Vision • Data Analytics • Software Development
 </p>
 
 ---
@@ -22,10 +22,10 @@ I am an engineer with hands-on experience in **machine learning, data analysis, 
 
 My focus is on creating **reliable, scalable, and production-ready AI and software solutions** that solve real-world problems.
 
-- BE in Artificial Intelligence & Data Science (CGPA: 8.6)  
+- BE in Artificial Intelligence & Data Science **(CGPA: 8.6)**  
 - GenAI Intern at **Vidarka Technology**  
-- Former AI-ML Engineer at **Rooman Technologies**  
-- Strong interest in ML pipelines, backend systems, and applied AI  
+- Former AI-ML intern at **Rooman Technologies**  
+- Strong interest in ML pipelines and applied AI  
 - Actively working with TensorFlow, PyTorch, OpenCV, scikit-learn, Streamlit, and Flask  
 
 ---
@@ -49,7 +49,7 @@ TF-IDF + Logistic Regression
 Skill categorization & scoring  
 
 ### Image Processing & Compression Toolkit
-OpenCV pipelines in C/C++  
+OpenCV pipelines 
 
 ### Voice-Enabled Disease Detection
 Speech + NLP + TensorFlow inference  
