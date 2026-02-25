@@ -3,53 +3,30 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;GenAI+%7C+NLP+%7C+Computer+Vision;Building+Production-Ready+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+%7C+Python+Developer+%7C+Data+Analyst;GenAI+%7C+NLP+%7C+Computer+Vision;Building+Scalable+Software+%26+AI+Solutions" />
 </p>
 
 <p align="center">
-AI/ML Engineer focused on designing, building, and deploying scalable intelligent systems.
+AI/ML Engineer & Python Developer focused on designing, building, and deploying scalable intelligent and data-driven systems.
 </p>
 
 <p align="center">
-Deep Learning • GenAI • NLP • Computer Vision
+Deep Learning • GenAI • NLP • Computer Vision • Data Analytics • Backend Development
 </p>
 
 ---
 
 ## <p align="center">About Me</p>
 
-I am an AI/ML engineer with hands-on experience building end-to-end machine learning systems — from data preprocessing and model architecture to deployment and optimization.
+I am an engineer with hands-on experience in **machine learning, data analysis, and Python-based software development**, building end-to-end systems — from data preprocessing and model architecture to backend development, deployment, and optimization.
 
-My focus is on creating reliable, scalable, and production-ready AI solutions that solve real-world problems.
+My focus is on creating **reliable, scalable, and production-ready AI and software solutions** that solve real-world problems.
 
 - BE in Artificial Intelligence & Data Science (CGPA: 8.6)  
 - GenAI Intern at **Vidarka Technology**  
 - Former AI-ML Engineer at **Rooman Technologies**  
-- Strong interest in ML pipelines, deep learning architectures, and applied AI systems  
-- Actively working with TensorFlow, PyTorch, OpenCV, and scikit-learn  
-
----
-
-## <p align="center">IT Fields & Roles I’m Interested In</p>
-
-- AI / Machine Learning Engineer  
-- Generative AI Engineer  
-- Data Scientist  
-- Data Analyst  
-- Business Intelligence (BI) Analyst  
-- Python Developer  
-- Backend Developer  
-- Junior Software Engineer / Software Engineer (Entry-Level)  
-- Computer Vision Engineer  
-- NLP Engineer  
-- Deep Learning Engineer  
-- MLOps / ML Engineer Intern  
-- AI Research Intern / Associate  
-- Data Engineer (Entry-Level)  
-- Automation Engineer  
-- Application Developer  
-- Cloud AI Engineer (Entry-Level)  
-- Full Stack Developer (Python-based)  
+- Strong interest in ML pipelines, backend systems, and applied AI  
+- Actively working with TensorFlow, PyTorch, OpenCV, scikit-learn, Streamlit, and Flask  
 
 ---
 
@@ -62,7 +39,7 @@ Multilingual & voice-based input
 
 ### Rainfall Prediction (Ensemble ML)
 AdaBoost ensemble models  
-Seasonal feature engineering  
+Feature engineering & visualization  
 
 ### Blood Bank Management System
 PHP + MySQL full-stack system  
@@ -97,13 +74,16 @@ Speech + NLP + TensorFlow inference
 ### Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white)
 
+### Web / App
+![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white)
+
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=plastic&logo=visualstudiocode&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=plastic&logo=mysql&logoColor=white)
