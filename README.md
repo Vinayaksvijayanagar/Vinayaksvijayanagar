@@ -37,45 +37,29 @@ My focus is on creating reliable, scalable, and production-ready AI solutions th
 <hr>
 
 <h3>Coffee Leaf Disease Detection (CNN – 92%)</h3>
-
 High-accuracy CNN model built using TensorFlow to classify 19 coffee leaf diseases.  
 Developed a full-stack web platform using Flask and React with multilingual and voice-based input.  
 Deployed on Render and Netlify.
 
----
-
 <h3>Rainfall Prediction (Ensemble ML)</h3>
-
 Engineered seasonal features and trained AdaBoost ensemble models.  
 Improved performance over Decision Tree baselines.  
 Visualized trends and insights using Matplotlib.
 
----
-
 <h3>Blood Bank Management System</h3>
-
 Designed and developed a full-stack system using PHP and MySQL.  
 Supports donor registration, inventory tracking, and real-time blood availability.
 
----
-
 <h3>Resume Intelligence Pipeline (NLP + ML)</h3>
-
 Built a hybrid NLP pipeline using TF-IDF and Logistic Regression.  
 Classifies resume content into ML, NLP, CV, Backend, and Experience categories.  
 Applies confidence thresholding and rule-based validation to generate skill percentages and an overall score.
 
----
-
 <h3>Image Processing & Compression Toolkit</h3>
-
 Implemented advanced image processing pipelines using OpenCV in C/C++.  
 Includes image transformations, noise reduction, compression, and filtering operations.
 
----
-
 <h3>Voice-Enabled Disease Detection</h3>
-
 Integrated multilingual speech input with NLP preprocessing.  
 Connected speech pipeline to TensorFlow inference APIs for real-time predictions.
 
@@ -121,17 +105,16 @@ Connected speech pipeline to TensorFlow inference APIs for real-time predictions
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinayaksvijayanagar&theme=tokyonight" />
 </p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinayaksvijayanagar&theme=tokyonight" height="170"/>
+</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Vinayaksvijayanagar&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
-
->
-
-
 
 <h2 align="center">Connect With Me</h2>
 <hr>
