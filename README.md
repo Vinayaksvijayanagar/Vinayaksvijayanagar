@@ -14,10 +14,7 @@ Deep Learning • GenAI • NLP • Computer Vision
 
 ---
 
-<br>
-
 <h2 align="center">About Me</h2>
-<hr>
 
 I am an AI/ML engineer with hands-on experience building end-to-end machine learning systems — from data preprocessing and model architecture to deployment and optimization.
 
@@ -31,98 +28,75 @@ My focus is on creating reliable, scalable, and production-ready AI solutions th
 
 ---
 
-<br>
-
 <h2 align="center">Featured Projects</h2>
-<hr>
 
-<h3>Coffee Leaf Disease Detection (CNN – 92%)</h3>
-High-accuracy CNN model built using TensorFlow to classify 19 coffee leaf diseases.  
-Developed a full-stack web platform using Flask and React with multilingual and voice-based input.  
-Deployed on Render and Netlify.
+### ☕ Coffee Leaf Disease Detection (CNN – 92%)
+High-accuracy CNN model using TensorFlow to classify 19 coffee leaf diseases  
+Full-stack web platform (Flask + React) with multilingual & voice input  
+Deployed on Render and Netlify  
 
-<h3>Rainfall Prediction (Ensemble ML)</h3>
-Engineered seasonal features and trained AdaBoost ensemble models.  
-Improved performance over Decision Tree baselines.  
-Visualized trends and insights using Matplotlib.
+### 🌧 Rainfall Prediction (Ensemble ML)
+AdaBoost ensemble models  
+Feature engineering + visualization with Matplotlib  
 
-<h3>Blood Bank Management System</h3>
-Designed and developed a full-stack system using PHP and MySQL.  
-Supports donor registration, inventory tracking, and real-time blood availability.
+### 🩸 Blood Bank Management System
+PHP + MySQL full-stack system  
+Donor, inventory & availability tracking  
 
-<h3>Resume Intelligence Pipeline (NLP + ML)</h3>
-Built a hybrid NLP pipeline using TF-IDF and Logistic Regression.  
-Classifies resume content into ML, NLP, CV, Backend, and Experience categories.  
-Applies confidence thresholding and rule-based validation to generate skill percentages and an overall score.
+### 📄 Resume Intelligence Pipeline (NLP + ML)
+TF-IDF + Logistic Regression  
+Skill categorization & scoring engine  
 
-<h3>Image Processing & Compression Toolkit</h3>
-Implemented advanced image processing pipelines using OpenCV in C/C++.  
-Includes image transformations, noise reduction, compression, and filtering operations.
-
-<h3>Voice-Enabled Disease Detection</h3>
-Integrated multilingual speech input with NLP preprocessing.  
-Connected speech pipeline to TensorFlow inference APIs for real-time predictions.
+### 🖼 Image Processing & Compression Toolkit
+OpenCV pipelines in C/C++  
 
 ---
-
-<br>
 
 <h2 align="center">Tech Stack</h2>
-<hr>
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+Python • Java • C • SQL  
 
-### ML / Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### ML / DL
+TensorFlow • PyTorch • Scikit-learn • NumPy • Pandas  
 
 ### Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+OpenCV  
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+Git • GitHub • Jupyter • VS Code  
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
+MySQL  
 
 ---
 
-<br>
-
 <h2 align="center">GitHub Activity</h2>
-<hr>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinayaksvijayanagar&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinayaksvijayanagar&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinayaksvijayanagar&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vinayaksvijayanagar&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinayaksvijayanagar&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinayaksvijayanagar&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
 <h2 align="center">Connect With Me</h2>
-<hr>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vinayak-vijayanagar-07937b36a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/vinayak-vijayanagar-07937b36a">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ---
