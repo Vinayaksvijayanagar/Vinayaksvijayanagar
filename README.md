@@ -30,6 +30,29 @@ My focus is on creating reliable, scalable, and production-ready AI solutions th
 
 ---
 
+## <p align="center">IT Fields & Roles I’m Interested In</p>
+
+- AI / Machine Learning Engineer  
+- Generative AI Engineer  
+- Data Scientist  
+- Data Analyst  
+- Business Intelligence (BI) Analyst  
+- Python Developer  
+- Backend Developer  
+- Junior Software Engineer / Software Engineer (Entry-Level)  
+- Computer Vision Engineer  
+- NLP Engineer  
+- Deep Learning Engineer  
+- MLOps / ML Engineer Intern  
+- AI Research Intern / Associate  
+- Data Engineer (Entry-Level)  
+- Automation Engineer  
+- Application Developer  
+- Cloud AI Engineer (Entry-Level)  
+- Full Stack Developer (Python-based)  
+
+---
+
 ## <p align="center">Featured Projects</p>
 
 ### Coffee Leaf Disease Detection (CNN – 92%)
@@ -58,7 +81,7 @@ Speech + NLP + TensorFlow inference
 
 ## <p align="center">Tech Stack</p>
 
-###  Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
@@ -79,8 +102,10 @@ Speech + NLP + TensorFlow inference
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=plastic&logo=visualstudiocode&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white)
 
-###  Database
+### Database
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=plastic&logo=mysql&logoColor=white)
 
 ---
