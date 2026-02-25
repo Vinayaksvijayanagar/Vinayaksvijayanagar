@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=200&section=header&text=Vinayak%20Vijayanagar&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=200&section=header&text=Vinayak%20Shivaling%20Vijayanagar&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
