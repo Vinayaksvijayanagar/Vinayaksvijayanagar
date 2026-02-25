@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-AI/ML Engineer & Python Developer focused on designing, building, and deploying scalable intelligent and data-driven systems.
+AI/ML Engineer & Python Developer focused on designing, building, and deploying scalable intelligent and data driven systems.
 </p>
 
 <p align="center">
