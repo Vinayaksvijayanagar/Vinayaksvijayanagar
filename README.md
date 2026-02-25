@@ -92,10 +92,6 @@ Speech + NLP + TensorFlow inference
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinayaksvijayanagar&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinayaksvijayanagar&theme=tokyonight"/>
 </p>
 
