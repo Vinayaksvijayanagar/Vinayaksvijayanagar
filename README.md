@@ -14,7 +14,7 @@ Deep Learning • GenAI • NLP • Computer Vision
 
 ---
 
-<h2 align="center">About Me</h2>
+## <p align="center">About Me</p>
 
 I am an AI/ML engineer with hands-on experience building end-to-end machine learning systems — from data preprocessing and model architecture to deployment and optimization.
 
@@ -28,50 +28,62 @@ My focus is on creating reliable, scalable, and production-ready AI solutions th
 
 ---
 
-<h2 align="center">Featured Projects</h2>
+## <p align="center">Featured Projects</p>
 
 ### ☕ Coffee Leaf Disease Detection (CNN – 92%)
-High-accuracy CNN model using TensorFlow to classify 19 coffee leaf diseases  
-Full-stack web platform (Flask + React) with multilingual & voice input  
+High-accuracy CNN model built using TensorFlow  
+Flask + React web platform with multilingual & voice input  
 Deployed on Render and Netlify  
 
 ### 🌧 Rainfall Prediction (Ensemble ML)
 AdaBoost ensemble models  
-Feature engineering + visualization with Matplotlib  
+Feature engineering + visualization  
 
 ### 🩸 Blood Bank Management System
 PHP + MySQL full-stack system  
-Donor, inventory & availability tracking  
 
 ### 📄 Resume Intelligence Pipeline (NLP + ML)
 TF-IDF + Logistic Regression  
-Skill categorization & scoring engine  
+Skill categorization & scoring  
 
 ### 🖼 Image Processing & Compression Toolkit
 OpenCV pipelines in C/C++  
 
+### 🎙 Voice-Enabled Disease Detection
+Multilingual speech + TensorFlow inference  
+
 ---
 
-<h2 align="center">Tech Stack</h2>
+## <p align="center">Tech Stack</p>
 
 ### Languages
-Python • Java • C • SQL  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ML / DL
-TensorFlow • PyTorch • Scikit-learn • NumPy • Pandas  
+### ML / Deep Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Computer Vision
-OpenCV  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Tools
-Git • GitHub • Jupyter • VS Code  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### Database
-MySQL  
+![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-<h2 align="center">GitHub Activity</h2>
+## <p align="center">GitHub Activity</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinayaksvijayanagar&theme=tokyonight" />
@@ -81,17 +93,19 @@ MySQL
   <img src="https://github-readme-stats.vercel.app/api?username=Vinayaksvijayanagar&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
+<!-- ✅ FIXED STREAK -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinayaksvijayanagar&theme=tokyonight&hide_border=true"/>
 </p>
 
+<!-- ✅ ACTIVITY GRAPH -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinayaksvijayanagar&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-<h2 align="center">Connect With Me</h2>
+## <p align="center">Connect With Me</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vinayak-vijayanagar-07937b36a">
