@@ -97,7 +97,7 @@ Speech + NLP + TensorFlow inference
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinayaksvijayanagar&theme=tokyonight&hide_longest_streak=true"/>
+  <img src="https://streak-stats.demolab.com?user=Vinayaksvijayanagar&theme=tokyonight&hide_longest_streak=true"/>
 </p>
 
 <p align="center">
