@@ -93,15 +93,15 @@ Speech + NLP + TensorFlow inference
 ## <p align="center">GitHub Activity</p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinayaksvijayanagar&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinayaksvijayanagar&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vinayaksvijayanagar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+<img src="https://streak-stats.demolab.com?user=Vinayaksvijayanagar&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinayaksvijayanagar&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinayaksvijayanagar&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
