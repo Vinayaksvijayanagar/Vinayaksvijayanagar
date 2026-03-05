@@ -89,7 +89,6 @@ Speech + NLP + TensorFlow inference
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=plastic&logo=mysql&logoColor=white)
 
 ---
-
 ## <p align="center">GitHub Activity</p>
 
 <p align="center">
@@ -97,12 +96,14 @@ Speech + NLP + TensorFlow inference
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Vinayaksvijayanagar&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Vinayaksvijayanagar&theme=tokyonight&hide_border=true&hide_longest_streak=true" />
 </p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinayaksvijayanagar&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" />
 </p>
+
+
 
 ---
 
