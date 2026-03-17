@@ -92,21 +92,28 @@ Speech + NLP + TensorFlow inference
 ## <p align="center">GitHub Activity</p>
 <p align="center">
 
-<!-- Main Animated Title -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=1500&pause=500&color=00F7FF&center=true&vCenter=true&width=1000&lines=321+DAY+CONTRIBUTION+STREAK;UNBREAKABLE+CONSISTENCY;AI+ENGINEER+BUILDING+DAILY" />
+<!-- Fireworks Background -->
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" />
+
+</p>
+
+<p align="center">
+
+<!-- Overlay Animated Title -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=1200&pause=500&color=00F7FF&center=true&vCenter=true&width=1000&lines=321+DAY+CONTRIBUTION+STREAK;UNBREAKABLE+CONSISTENCY;AI+ENGINEER+BUILDING+DAILY" />
 
 </p>
 
 <p align="center">
 
 <!-- Glow Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:58A6FF&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:58A6FF&height=3"/>
 
 </p>
 
 <p align="center">
 
-<!-- Streak Badge -->
+<!-- Premium Badge -->
 <img src="https://img.shields.io/badge/Longest%20Streak-321%20Days-00F7FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117"/>
 
 </p>
@@ -114,16 +121,10 @@ Speech + NLP + TensorFlow inference
 <p align="center">
 
 <!-- Sub Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=1800&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Consistency+Creates+Excellence;Discipline+Beats+Motivation;Building+AI+Every+Day" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=1600&pause=600&color=58A6FF&center=true&vCenter=true&width=900&lines=Consistency+Creates+Excellence;Discipline+Builds+Systems;Engineering+AI+Daily" />
 
 </p>
 
-<p align="center">
-
-<!-- Trophy Section -->
-<img src="https://github-profile-trophy.vercel.app/?username=Vinayaksvijayanagar&theme=algolia&no-frame=true&margin-w=10&row=1"/>
-
-</p>
 
 ## <p align="center">Connect With Me</p>
 
