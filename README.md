@@ -90,16 +90,10 @@ Speech + NLP + TensorFlow inference
 
 ---
 ## <p align="center">GitHub Activity</p>
+##  Contribution Streak
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinayaksvijayanagar&theme=tokyonight" />
-</p>
-## <p align="center">Connect With Me</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/vinayak-vijayanagar-07937b36a">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <img src="https://streak-stats.demolab.com?user=Vinayaksvijayanagar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
