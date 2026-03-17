@@ -91,27 +91,11 @@ Speech + NLP + TensorFlow inference
 ---
 ## <p align="center">GitHub Activity</p>
 <p align="center">
-  <svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
-    <!-- Soft Glow -->
-    <defs>
-      <filter id="glow">
-        <feGaussianBlur stdDeviation="1.5" result="blur"/>
-        <feMerge>
-          <feMergeNode in="blur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-    <!-- Static Spark Points -->
-    <circle cx="120" cy="40" r="2" fill="#58A6FF" filter="url(#glow)"/>
-    <circle cx="480" cy="80" r="2" fill="#58A6FF" filter="url(#glow)"/>
-    <circle cx="300" cy="30" r="2" fill="#58A6FF" filter="url(#glow)"/>
-    <!-- Text -->
-    <text x="50%" y="55%" text-anchor="middle"
-          fill="#58A6FF" font-size="28" font-family="sans-serif">
-      321 DAY STREAK
-    </text>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=120&section=header&text=321%20DAY%20STREAK&fontSize=32&fontColor=58A6FF"/>
+</p>
+
+<p align="center">
+  Consistency driven engineering.
 </p>
 
 ## <p align="center">Connect With Me</p>
