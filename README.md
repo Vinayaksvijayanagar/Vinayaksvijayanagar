@@ -102,9 +102,10 @@ Speech + NLP + TensorFlow inference
 ## <p align="center">Connect With Me</p>
 
 <p align="center">
-  <a href="mailto:vinayakvijayanagar6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vinayakvijayanagar6@gmail.com&su=Opportunity%20for%20AI%2FML%20Engineer&body=Hello%20Vinayak%2C%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20was%20impressed%20by%20your%20work.%20I%20would%20like%20to%20connect%20with%20you%20regarding%20an%20opportunity.%0A%0ALooking%20forward%20to%20your%20response.%0A%0ARegards%2C">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me%20Directly-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
   <a href="https://www.linkedin.com/in/vinayak-vijayanagar-07937b36a">
     <img src="https://img.shields.io/badge/LinkedIn-Vinayak%20Vijayanagar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
