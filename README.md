@@ -90,17 +90,40 @@ Speech + NLP + TensorFlow inference
 
 ---
 ## <p align="center">GitHub Activity</p>
-
-##  Contribution Streak
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=+321+DAY+CONTRIBUTION+STREAK;+CONSISTENCY+%7C+DISCIPLINE+%7C+GROWTH;+BUILDING+AI+SYSTEMS+EVERY+DAY" />
+
+<!-- Main Animated Title -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=1500&pause=500&color=00F7FF&center=true&vCenter=true&width=1000&lines=321+DAY+CONTRIBUTION+STREAK;UNBREAKABLE+CONSISTENCY;AI+ENGINEER+BUILDING+DAILY" />
+
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%20Longest%20Streak-321%20Days-00F7FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117"/>
+
+<!-- Glow Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:58A6FF&height=2&section=header"/>
+
 </p>
----
+
+<p align="center">
+
+<!-- Streak Badge -->
+<img src="https://img.shields.io/badge/Longest%20Streak-321%20Days-00F7FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117"/>
+
+</p>
+
+<p align="center">
+
+<!-- Sub Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=1800&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Consistency+Creates+Excellence;Discipline+Beats+Motivation;Building+AI+Every+Day" />
+
+</p>
+
+<p align="center">
+
+<!-- Trophy Section -->
+<img src="https://github-profile-trophy.vercel.app/?username=Vinayaksvijayanagar&theme=algolia&no-frame=true&margin-w=10&row=1"/>
+
+</p>
 
 ## <p align="center">Connect With Me</p>
 
