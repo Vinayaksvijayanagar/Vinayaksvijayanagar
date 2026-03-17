@@ -91,11 +91,11 @@ Speech + NLP + TensorFlow inference
 ---
 ## <p align="center">GitHub Activity</p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00F7FF,100:58A6FF&height=150&section=header&text=321%20DAY%20STREAK&fontSize=35&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:58A6FF&height=160&section=header&text=321%20DAY%20STREAK&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <strong>Longest Contribution Streak: 321 Days</strong>
+  Consistency driven engineering with a focus on building intelligent systems daily.
 </p>
 
 ## <p align="center">Connect With Me</p>
