@@ -91,40 +91,12 @@ Speech + NLP + TensorFlow inference
 ---
 ## <p align="center">GitHub Activity</p>
 <p align="center">
-
-<!-- Fireworks Background -->
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" />
-
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00F7FF,100:58A6FF&height=150&section=header&text=321%20DAY%20STREAK&fontSize=35&fontColor=ffffff&animation=twinkling"/>
 </p>
 
 <p align="center">
-
-<!-- Overlay Animated Title -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=1200&pause=500&color=00F7FF&center=true&vCenter=true&width=1000&lines=321+DAY+CONTRIBUTION+STREAK;UNBREAKABLE+CONSISTENCY;AI+ENGINEER+BUILDING+DAILY" />
-
+  <strong>Longest Contribution Streak: 321 Days</strong>
 </p>
-
-<p align="center">
-
-<!-- Glow Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:58A6FF&height=3"/>
-
-</p>
-
-<p align="center">
-
-<!-- Premium Badge -->
-<img src="https://img.shields.io/badge/Longest%20Streak-321%20Days-00F7FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117"/>
-
-</p>
-
-<p align="center">
-
-<!-- Sub Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=1600&pause=600&color=58A6FF&center=true&vCenter=true&width=900&lines=Consistency+Creates+Excellence;Discipline+Builds+Systems;Engineering+AI+Daily" />
-
-</p>
-
 
 ## <p align="center">Connect With Me</p>
 
