@@ -91,40 +91,24 @@ Speech + NLP + TensorFlow inference
 ---
 ## <p align="center">GitHub Activity</p>
 <p align="center">
-  <svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
-    <!-- Glow Filter -->
+  <svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
+    <!-- Soft Glow -->
     <defs>
       <filter id="glow">
-        <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+        <feGaussianBlur stdDeviation="1.5" result="blur"/>
         <feMerge>
-          <feMergeNode in="coloredBlur"/>
+          <feMergeNode in="blur"/>
           <feMergeNode in="SourceGraphic"/>
         </feMerge>
       </filter>
     </defs>
-    <!-- Spark Particles -->
-    <circle cx="100" cy="50" r="2" fill="#58A6FF" filter="url(#glow)">
-      <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="200" cy="120" r="2" fill="#00F7FF" filter="url(#glow)">
-      <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="350" cy="60" r="2" fill="#58A6FF" filter="url(#glow)">
-      <animate attributeName="opacity" values="0;1;0" dur="2.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="500" cy="140" r="2" fill="#00F7FF" filter="url(#glow)">
-      <animate attributeName="opacity" values="0;1;0" dur="3.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="700" cy="80" r="2" fill="#58A6FF" filter="url(#glow)">
-      <animate attributeName="opacity" values="0;1;0" dur="2.2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="800" cy="40" r="2" fill="#00F7FF" filter="url(#glow)">
-      <animate attributeName="opacity" values="0;1;0" dur="2.8s" repeatCount="indefinite"/>
-    </circle>
-    <!-- Main Text -->
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          fill="#58A6FF" font-size="34" font-family="Orbitron, sans-serif"
-          filter="url(#glow)">
+    <!-- Static Spark Points -->
+    <circle cx="120" cy="40" r="2" fill="#58A6FF" filter="url(#glow)"/>
+    <circle cx="480" cy="80" r="2" fill="#58A6FF" filter="url(#glow)"/>
+    <circle cx="300" cy="30" r="2" fill="#58A6FF" filter="url(#glow)"/>
+    <!-- Text -->
+    <text x="50%" y="55%" text-anchor="middle"
+          fill="#58A6FF" font-size="28" font-family="sans-serif">
       321 DAY STREAK
     </text>
   </svg>
