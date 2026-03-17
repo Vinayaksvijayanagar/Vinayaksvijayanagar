@@ -91,43 +91,39 @@ Speech + NLP + TensorFlow inference
 ---
 ## <p align="center">GitHub Activity</p>
 <p align="center">
-  <svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
-    <!-- Background -->
-    <rect width="900" height="220" fill="#0d1117"/>
+  <svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
     <!-- Glow Filter -->
     <defs>
       <filter id="glow">
-        <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+        <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
         <feMerge>
           <feMergeNode in="coloredBlur"/>
           <feMergeNode in="SourceGraphic"/>
         </feMerge>
       </filter>
     </defs>
-    <!-- Floating Particles -->
-    <circle cx="100" cy="180" r="3" fill="#00F7FF" filter="url(#glow)">
-      <animate attributeName="cy" from="180" to="40" dur="4s" repeatCount="indefinite"/>
-      <animate attributeName="cx" values="100;120;90;110;100" dur="4s" repeatCount="indefinite"/>
+    <!-- Spark Particles -->
+    <circle cx="100" cy="50" r="2" fill="#58A6FF" filter="url(#glow)">
+      <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="250" cy="200" r="4" fill="#58A6FF" filter="url(#glow)">
-      <animate attributeName="cy" from="200" to="30" dur="5s" repeatCount="indefinite"/>
-      <animate attributeName="cx" values="250;270;240;260;250" dur="5s" repeatCount="indefinite"/>
+    <circle cx="200" cy="120" r="2" fill="#00F7FF" filter="url(#glow)">
+      <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="500" cy="190" r="3" fill="#00F7FF" filter="url(#glow)">
-      <animate attributeName="cy" from="190" to="50" dur="3.5s" repeatCount="indefinite"/>
-      <animate attributeName="cx" values="500;520;480;510;500" dur="3.5s" repeatCount="indefinite"/>
+    <circle cx="350" cy="60" r="2" fill="#58A6FF" filter="url(#glow)">
+      <animate attributeName="opacity" values="0;1;0" dur="2.5s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="700" cy="210" r="4" fill="#58A6FF" filter="url(#glow)">
-      <animate attributeName="cy" from="210" to="40" dur="4.5s" repeatCount="indefinite"/>
-      <animate attributeName="cx" values="700;720;690;710;700" dur="4.5s" repeatCount="indefinite"/>
+    <circle cx="500" cy="140" r="2" fill="#00F7FF" filter="url(#glow)">
+      <animate attributeName="opacity" values="0;1;0" dur="3.5s" repeatCount="indefinite"/>
     </circle>
-    <!-- Pulsing Center Glow -->
-    <circle cx="450" cy="110" r="6" fill="#00F7FF" filter="url(#glow)">
-      <animate attributeName="r" values="4;8;4" dur="2s" repeatCount="indefinite"/>
+    <circle cx="700" cy="80" r="2" fill="#58A6FF" filter="url(#glow)">
+      <animate attributeName="opacity" values="0;1;0" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="800" cy="40" r="2" fill="#00F7FF" filter="url(#glow)">
+      <animate attributeName="opacity" values="0;1;0" dur="2.8s" repeatCount="indefinite"/>
     </circle>
     <!-- Main Text -->
     <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          fill="#58A6FF" font-size="36" font-family="Orbitron, sans-serif"
+          fill="#58A6FF" font-size="34" font-family="Orbitron, sans-serif"
           filter="url(#glow)">
       321 DAY STREAK
     </text>
