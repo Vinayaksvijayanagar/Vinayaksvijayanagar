@@ -94,9 +94,12 @@ Speech + NLP + TensorFlow inference
 ##  Contribution Streak
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=58A6FF&center=true&vCenter=true&width=700&lines=+321+Day+Contribution+Streak;Consistency+%7C+Discipline+%7C+Growth" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=+321+DAY+CONTRIBUTION+STREAK;+CONSISTENCY+%7C+DISCIPLINE+%7C+GROWTH;+BUILDING+AI+SYSTEMS+EVERY+DAY" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/%20Longest%20Streak-321%20Days-00F7FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117"/>
+</p>
 ---
 
 ## <p align="center">Connect With Me</p>
