@@ -91,8 +91,7 @@ Speech + NLP + TensorFlow inference
 ---
 ## <p align="center">GitHub Activity</p>
 <p align="center">
- <p align="center">
-  <p align="center">
+<p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=700&pause=200&color=58A6FF&center=true&vCenter=true&width=600&lines=321+DAY+STREAK; ;321+DAY+STREAK" />
 </p>
 <p align="center">
