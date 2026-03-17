@@ -92,9 +92,9 @@ Speech + NLP + TensorFlow inference
 ## <p align="center">GitHub Activity</p>
 <p align="center">
  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=120&section=header&text=321%20DAY%20STREAK&fontSize=32&fontColor=58A6FF&animation=fadeIn"/>
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=700&pause=200&color=58A6FF&center=true&vCenter=true&width=600&lines=321+DAY+STREAK; ;321+DAY+STREAK" />
 </p>
-
 <p align="center">
   Consistency driven engineering.
 </p>
