@@ -91,11 +91,11 @@ Speech + NLP + TensorFlow inference
 ---
 ## <p align="center">GitHub Activity</p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=321%20DAY%20STREAK&fontSize=42&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:161b22,100:0d1117&height=170&section=header&text=321%20DAY%20STREAK&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Consistency+is+the+real+advantage;Systems+over+motivation;Building+AI+every+day" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Consistency+is+the+real+advantage;Systems+over+motivation;Building+AI+every+day" />
 </p>
 
 ## <p align="center">Connect With Me</p>
