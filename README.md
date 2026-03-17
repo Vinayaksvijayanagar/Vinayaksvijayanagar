@@ -92,9 +92,8 @@ Speech + NLP + TensorFlow inference
 ## <p align="center">GitHub Activity</p>
 ##  Contribution Streak
 <p align="center">
-   <strong>Best Streak: 321 Days</strong>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=58A6FF&center=true&vCenter=true&width=700&lines=🔥+321+Day+Contribution+Streak;Consistency+%7C+Discipline+%7C+Growth" />
 </p>
-
 ---
 
 <h3 align="center">Always building. Always learning. Always improving.</h3>
