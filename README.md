@@ -91,9 +91,8 @@ Speech + NLP + TensorFlow inference
 ---
 ## <p align="center">GitHub Activity</p>
 ##  Contribution Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vinayaksvijayanagar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+   <strong>Best Streak: 321 Days</strong>
 </p>
 
 ---
