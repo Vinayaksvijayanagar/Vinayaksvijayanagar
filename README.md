@@ -133,7 +133,7 @@ Speech + NLP + TensorFlow inference
     </text>
   </svg>
 </p>
----
+
 ## <p align="center">Connect With Me</p>
 
 <p align="center">
