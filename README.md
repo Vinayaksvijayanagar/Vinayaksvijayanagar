@@ -96,7 +96,7 @@ Speech + NLP + TensorFlow inference
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vinayaksvijayanagar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img src="https://streak-stats.demolab.com?user=Vinayaksvijayanagar&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
