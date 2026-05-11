@@ -91,7 +91,7 @@ Speech + NLP + TensorFlow inference
 ---
 ## <p align="center">GitHub Activity</p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=260&color=0:0d1117,35:1f6feb,65:58A6FF,100:0d1117&text=1%20YEAR%20GITHUB%20STREAK&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=365%20Days%20of%20Consistency%20|%20Code%20|%20Growth%20|%20Discipline&descAlignY=64&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=280&color=0:0d1117,35:1f6feb,65:58A6FF,100:0d1117&text=1%20YEAR%20GITHUB%20STREAK&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=365%20Days%20of%20Consistency%20✦%20Code%20✦%20Growth%20✦%20Discipline&descAlignY=63&descSize=18"/>
 </p>
 
 <p align="center">
@@ -102,8 +102,12 @@ Speech + NLP + TensorFlow inference
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120"/>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTR1c3F0a2h6bWR6NnZ0NnB0Z3JvOWo5eGh5bTRjMnY0NjE5dTZ2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="240"/>
+</p>
+
 <h3 align="center">
-   Turning dedication into achievements, one commit at a time
+   ✨ Turning dedication into achievements, one commit at a time ✨
 </h3>
 
 ## <p align="center">Connect With Me</p>
