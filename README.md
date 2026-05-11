@@ -91,7 +91,7 @@ Speech + NLP + TensorFlow inference
 ---
 ## <p align="center">GitHub Activity</p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,25:1f6feb,50:58A6FF,75:1f6feb,100:0d1117&height=220&section=header&text=%201%20YEAR%20GITHUB%20STREAK%20&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=365+Days+of+Consistency+%7C+Code+%7C+Growth+%7C+Discipline&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=260&color=0:0d1117,35:1f6feb,65:58A6FF,100:0d1117&text=1%20YEAR%20GITHUB%20STREAK&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=365%20Days%20of%20Consistency%20|%20Code%20|%20Growth%20|%20Discipline&descAlignY=64&descSize=18"/>
 </p>
 
 <p align="center">
@@ -103,9 +103,8 @@ Speech + NLP + TensorFlow inference
 </p>
 
 <h3 align="center">
-   Turning dedication into achievements, one commit at a time 
+   Turning dedication into achievements, one commit at a time
 </h3>
-
 
 ## <p align="center">Connect With Me</p>
 
