@@ -91,13 +91,20 @@ Speech + NLP + TensorFlow inference
 ---
 ## <p align="center">GitHub Activity</p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:161b22,100:0d1117&height=170&section=header&text=349%20DAY%20STREAK&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1f6feb,50:58A6FF,75:1f6feb,100:0d1117&height=220&section=header&text=%201%20YEAR%20GITHUB%20STREAK%20&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=365+Days+of+Consistency+%7C+Code+%7C+Growth+%7C+Discipline&descAlignY=60&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Consistency+is+the+real+advantage;Systems+over+motivation;Building+AI+every+day" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=900&lines=365+Days+of+Continuous+Coding;One+Year+of+Consistency+Unlocked;Building+AI+Projects+Every+Day;Discipline+Creates+Results;1+Year+GitHub+Contribution+Streak" />
 </p>
-## <p align="center">GitHub Activity</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120"/>
+</p>
+
+<h3 align="center">
+   Turning dedication into achievements, one commit at a time 
+</h3>
 
 
 ## <p align="center">Connect With Me</p>
