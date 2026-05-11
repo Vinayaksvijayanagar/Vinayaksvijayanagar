@@ -91,7 +91,7 @@ Speech + NLP + TensorFlow inference
 ---
 ## <p align="center">GitHub Activity</p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1f6feb,50:58A6FF,75:1f6feb,100:0d1117&height=220&section=header&text=%201%20YEAR%20GITHUB%20STREAK%20&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=365+Days+of+Consistency+%7C+Code+%7C+Growth+%7C+Discipline&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,25:1f6feb,50:58A6FF,75:1f6feb,100:0d1117&height=220&section=header&text=%201%20YEAR%20GITHUB%20STREAK%20&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=365+Days+of+Consistency+%7C+Code+%7C+Growth+%7C+Discipline&descAlignY=60&descSize=18"/>
 </p>
 
 <p align="center">
